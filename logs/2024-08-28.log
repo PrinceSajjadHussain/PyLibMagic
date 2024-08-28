@@ -1,0 +1,58 @@
+2024-08-28 19:11:34,997 - INFO - 
+2024-08-28 19:11:34,997 - INFO - 
+2024-08-28 19:27:45,181 - INFO - {"functionName": "round_robin_middleware", "startTime": "07:27:45 PM", "endTime": "07:27:45 PM", "executionTime": 0.0}
+2024-08-28 19:27:45,181 - INFO - {"functionName": "round_robin_middleware", "startTime": "07:27:45 PM", "endTime": "07:27:45 PM", "executionTime": 0.0}
+2024-08-28 19:37:35,256 - INFO - Function Name: round_robin_middleware
+2024-08-28 19:37:35,256 - INFO - Function Name: round_robin_middleware
+2024-08-28 19:37:35,528 - INFO - Start Time: 07:37:35 PM
+2024-08-28 19:37:35,528 - INFO - Start Time: 07:37:35 PM
+2024-08-28 19:37:35,575 - INFO - End Time: 07:37:35 PM
+2024-08-28 19:37:35,575 - INFO - End Time: 07:37:35 PM
+2024-08-28 19:37:35,608 - INFO - Execution Time: 0.000000 seconds
+2024-08-28 19:37:35,608 - INFO - Execution Time: 0.000000 seconds
+2024-08-28 19:37:35,642 - INFO - Response: <coroutine object round_robin_middleware at 0x00000271B1312BC0>
+2024-08-28 19:37:35,642 - INFO - Response: <coroutine object round_robin_middleware at 0x00000271B1312BC0>
+2024-08-28 19:39:31,762 - INFO - Function Name: round_robin_middleware
+2024-08-28 19:39:31,762 - INFO - Function Name: round_robin_middleware
+2024-08-28 19:39:31,905 - INFO - Start Time: 07:39:31 PM
+2024-08-28 19:39:31,905 - INFO - Start Time: 07:39:31 PM
+2024-08-28 19:39:31,939 - INFO - End Time: 07:39:31 PM
+2024-08-28 19:39:31,939 - INFO - End Time: 07:39:31 PM
+2024-08-28 19:39:31,976 - INFO - Execution Time: 0.449222 seconds
+2024-08-28 19:39:31,976 - INFO - Execution Time: 0.449222 seconds
+2024-08-28 19:39:32,011 - INFO - Response: <starlette.responses.Response object at 0x000001CEE5225160>
+2024-08-28 19:39:32,011 - INFO - Response: <starlette.responses.Response object at 0x000001CEE5225160>
+2024-08-28 19:39:32,042 - INFO - {"functionName": "round_robin_middleware", "startTime": "07:39:31 PM", "endTime": "07:39:31 PM", "executionTime": 0.4492223262786865, "response": "<starlette.responses.Response object at 0x000001CEE5225160>"}
+2024-08-28 19:39:32,042 - INFO - {"functionName": "round_robin_middleware", "startTime": "07:39:31 PM", "endTime": "07:39:31 PM", "executionTime": 0.4492223262786865, "response": "<starlette.responses.Response object at 0x000001CEE5225160>"}
+2024-08-28 19:41:15,764 - INFO - Function Name: round_robin_middleware
+2024-08-28 19:41:15,764 - INFO - Function Name: round_robin_middleware
+2024-08-28 19:41:15,858 - INFO - Start Time: 07:41:15 PM
+2024-08-28 19:41:15,858 - INFO - Start Time: 07:41:15 PM
+2024-08-28 19:41:15,899 - INFO - End Time: 07:41:15 PM
+2024-08-28 19:41:15,899 - INFO - End Time: 07:41:15 PM
+2024-08-28 19:41:15,950 - INFO - Execution Time: 0.493620 seconds
+2024-08-28 19:41:15,950 - INFO - Execution Time: 0.493620 seconds
+2024-08-28 19:41:15,986 - INFO - Response: <starlette.responses.Response object at 0x0000023076B75100>
+2024-08-28 19:41:15,986 - INFO - Response: <starlette.responses.Response object at 0x0000023076B75100>
+2024-08-28 19:43:11,577 - INFO - Function Name: round_robin_middleware
+2024-08-28 19:43:11,577 - INFO - Function Name: round_robin_middleware
+2024-08-28 19:43:11,785 - INFO - Start Time: 07:43:11 PM
+2024-08-28 19:43:11,785 - INFO - Start Time: 07:43:11 PM
+2024-08-28 19:43:11,855 - INFO - End Time: 07:43:11 PM
+2024-08-28 19:43:11,855 - INFO - End Time: 07:43:11 PM
+2024-08-28 19:43:11,912 - INFO - Execution Time: 0.340667 seconds
+2024-08-28 19:43:11,912 - INFO - Execution Time: 0.340667 seconds
+2024-08-28 19:43:12,002 - INFO - Response: <starlette.responses.Response object at 0x000001A048E85100>
+2024-08-28 19:43:12,002 - INFO - Response: <starlette.responses.Response object at 0x000001A048E85100>
+2024-08-28 19:45:12,278 - INFO - Function Name: round_robin_middleware
+2024-08-28 19:45:12,278 - INFO - Function Name: round_robin_middleware
+2024-08-28 19:45:12,424 - INFO - Start Time: 07:45:11 PM
+2024-08-28 19:45:12,424 - INFO - Start Time: 07:45:11 PM
+2024-08-28 19:45:12,477 - INFO - End Time: 07:45:12 PM
+2024-08-28 19:45:12,477 - INFO - End Time: 07:45:12 PM
+2024-08-28 19:45:12,524 - INFO - Execution Time: 0.489115 seconds
+2024-08-28 19:45:12,524 - INFO - Execution Time: 0.489115 seconds
+2024-08-28 19:49:49,129 - INFO - {"functionName": "round_robin_middleware", "startTime": "07:49:49 PM", "endTime": "07:49:49 PM", "executionTime": 0.0}
+2024-08-28 19:49:49,129 - INFO - {"functionName": "round_robin_middleware", "startTime": "07:49:49 PM", "endTime": "07:49:49 PM", "executionTime": 0.0}
+2024-08-28 23:18:35,507 - INFO - {"functionName": "round_robin_middleware", "startTime": "11:18:35 PM", "endTime": "11:18:35 PM", "executionTime": 0.0}
+2024-08-28 23:18:35,507 - INFO - {"functionName": "round_robin_middleware", "startTime": "11:18:35 PM", "endTime": "11:18:35 PM", "executionTime": 0.0}

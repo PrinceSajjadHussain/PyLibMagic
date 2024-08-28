@@ -1,0 +1,7 @@
+{
+    "servers": [
+        "https://localhost:8000",
+        "https://localhost:8001",
+        "https://localhost:8004"
+    ]
+}
