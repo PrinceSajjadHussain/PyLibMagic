@@ -62,22 +62,27 @@ logger = setup_logging()
 # Function decorator for logging execution details
 def log_function_execution(func):
     def wrapper(*args, **kwargs):
-        start_time = datetime.now().strftime("%I:%M:%S %p")
-        start_seconds = time.time()
+        start_time = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+        start_seconds = time.perf_counter()  # Use perf_counter for high-resolution timing
         try:
             result = func(*args, **kwargs)
+        except Exception as e:
+            # Log exception if needed
+            logger.error(f"Exception in {func.__name__}: {e}")
+            raise  # Re-raise the exception to maintain original behavior
         finally:
-            end_seconds = time.time()
+            end_seconds = time.perf_counter()
             execution_time = end_seconds - start_seconds
-            end_time = datetime.now().strftime("%I:%M:%S %p")
+            end_time = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
             # Format the log entry as a string
             log_entry = (
                 f'functionName: {func.__name__}, '
                 f'startTime: {start_time}, '
                 f'endTime: {end_time}, '
-                f'executionTime: {execution_time}'
+                f'executionTime: {execution_time:.6f} seconds'
             )
             # Log formatted string
             logger.info(log_entry)
         return result
     return wrapper
+

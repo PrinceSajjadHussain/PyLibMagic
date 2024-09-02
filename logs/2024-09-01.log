@@ -1,0 +1,132 @@
+2024-09-01 18:21:27,610 - INFO - functionName: round_robin_middleware, startTime: 06:21:27 PM, endTime: 06:21:27 PM, executionTime: 0.0
+2024-09-01 18:21:37,044 - INFO - Next server: https://localhost:8000
+2024-09-01 18:21:46,206 - INFO - {"request_method": "GET", "request_url": "https://0.0.0.0:7010/", "request_headers": {"user-agent": "PostmanRuntime/7.41.2", "accept": "*/*", "postman-token": "0f6f4547-e81a-48fc-a39c-4860c19f0ef8", "host": "0.0.0.0:7010", "accept-encoding": "gzip, deflate, br", "connection": "keep-alive"}, "request_body": ""}
+2024-09-01 18:24:54,591 - INFO - functionName: round_robin_middleware, startTime: 06:24:54 PM, endTime: 06:24:54 PM, executionTime: 0.0
+2024-09-01 18:25:03,720 - INFO - Next server: https://localhost:8001
+2024-09-01 18:25:13,060 - INFO - {"request_method": "GET", "request_url": "https://0.0.0.0:7010/", "request_headers": {"user-agent": "PostmanRuntime/7.41.2", "accept": "*/*", "postman-token": "2fdcb972-a64b-403f-bf97-637860a8a82e", "host": "0.0.0.0:7010", "accept-encoding": "gzip, deflate, br", "connection": "keep-alive"}, "request_body": ""}
+2024-09-01 18:26:16,086 - INFO - functionName: round_robin_middleware, startTime: 06:26:16 PM, endTime: 06:26:16 PM, executionTime: 0.0
+2024-09-01 18:26:16,124 - INFO - Next server: https://localhost:8000
+2024-09-01 18:26:16,175 - INFO - {"request_method": "GET", "request_url": "https://0.0.0.0:7010/", "request_headers": {"user-agent": "PostmanRuntime/7.41.2", "accept": "*/*", "postman-token": "cfa9d8b7-c93c-4f5c-bd6b-8faa0e999ba9", "host": "0.0.0.0:7010", "accept-encoding": "gzip, deflate, br", "connection": "keep-alive"}, "request_body": ""}
+2024-09-01 18:29:52,481 - INFO - functionName: round_robin_middleware, startTime: 06:29:52 PM, endTime: 06:29:52 PM, executionTime: 0.0
+2024-09-01 18:29:52,506 - INFO - Next server: https://localhost:8000
+2024-09-01 18:29:52,560 - INFO - {"request_method": "GET", "request_url": "https://0.0.0.0:7010/", "request_headers": {"user-agent": "PostmanRuntime/7.41.2", "accept": "*/*", "postman-token": "f21ffd8c-3079-45b1-b5f7-f22af24c2eac", "host": "0.0.0.0:7010", "accept-encoding": "gzip, deflate, br", "connection": "keep-alive"}, "request_body": ""}
+2024-09-01 18:30:12,511 - INFO - functionName: round_robin_middleware, startTime: 06:30:12 PM, endTime: 06:30:12 PM, executionTime: 0.0
+2024-09-01 18:30:12,537 - INFO - Next server: https://localhost:8000
+2024-09-01 18:30:12,611 - INFO - {"request_method": "GET", "request_url": "http://0.0.0.0:7010/", "request_headers": {"user-agent": "PostmanRuntime/7.41.2", "accept": "*/*", "postman-token": "588bd9f7-4646-4a3c-babf-f767edc86682", "host": "0.0.0.0:7010", "accept-encoding": "gzip, deflate, br", "connection": "keep-alive"}, "request_body": ""}
+2024-09-01 18:30:35,614 - INFO - functionName: round_robin_middleware, startTime: 06:30:35 PM, endTime: 06:30:35 PM, executionTime: 0.0
+2024-09-01 18:30:35,658 - INFO - Next server: https://localhost:8001
+2024-09-01 18:30:35,724 - INFO - {"request_method": "GET", "request_url": "http://0.0.0.0:7010/", "request_headers": {"user-agent": "PostmanRuntime/7.41.2", "accept": "*/*", "postman-token": "975f6300-f4d4-4948-97bd-958684f385d1", "host": "0.0.0.0:7010", "accept-encoding": "gzip, deflate, br", "connection": "keep-alive"}, "request_body": ""}
+2024-09-01 18:30:38,072 - ERROR - Request error with server https://localhost:8001: All connection attempts failed
+2024-09-01 18:35:51,754 - INFO - functionName: round_robin_middleware, startTime: 06:35:51 PM, endTime: 06:35:51 PM, executionTime: 0.0
+2024-09-01 18:35:51,812 - INFO - Next server: https://localhost:8000
+2024-09-01 18:35:51,873 - INFO - {"request_method": "GET", "request_url": "https://0.0.0.0:7010/", "request_headers": {"user-agent": "PostmanRuntime/7.41.2", "accept": "*/*", "postman-token": "1a879277-c298-49fb-a00b-934218e2545f", "host": "0.0.0.0:7010", "accept-encoding": "gzip, deflate, br", "connection": "keep-alive"}, "request_body": ""}
+2024-09-01 18:36:26,425 - INFO - functionName: round_robin_middleware, startTime: 06:36:26 PM, endTime: 06:36:26 PM, executionTime: 0.0
+2024-09-01 18:36:26,451 - INFO - Next server: https://localhost:8001
+2024-09-01 18:36:26,507 - INFO - {"request_method": "GET", "request_url": "https://0.0.0.0:7010/", "request_headers": {"user-agent": "PostmanRuntime/7.41.2", "accept": "*/*", "postman-token": "7863a4c4-c37c-4866-b1d3-8af967b86900", "host": "0.0.0.0:7010", "accept-encoding": "gzip, deflate, br", "connection": "keep-alive"}, "request_body": ""}
+2024-09-01 18:36:26,837 - INFO - {"response_status_code": 200, "response_headers": {"date": "Sun, 01 Sep 2024 13:36:26 GMT", "server": "uvicorn", "content-length": "41", "content-type": "application/json"}, "response_body": "{\"message\":\"Hello, World from server 2!\"}"}
+2024-09-01 18:37:00,170 - INFO - functionName: round_robin_middleware, startTime: 06:37:00 PM, endTime: 06:37:00 PM, executionTime: 0.0
+2024-09-01 18:37:00,422 - INFO - Next server: https://localhost:8004
+2024-09-01 18:37:00,432 - INFO - {"request_method": "GET", "request_url": "https://0.0.0.0:7010/", "request_headers": {"user-agent": "PostmanRuntime/7.41.2", "accept": "*/*", "postman-token": "83819e9d-914d-46ee-bbeb-8e1ac619c4d7", "host": "0.0.0.0:7010", "accept-encoding": "gzip, deflate, br", "connection": "keep-alive"}, "request_body": ""}
+2024-09-01 18:37:00,739 - INFO - {"response_status_code": 200, "response_headers": {"date": "Sun, 01 Sep 2024 13:37:00 GMT", "server": "uvicorn", "content-length": "41", "content-type": "application/json"}, "response_body": "{\"message\":\"Hello, World from server 3!\"}"}
+2024-09-01 18:42:10,578 - INFO - functionName: round_robin_middleware, startTime: 06:42:10 PM, endTime: 06:42:10 PM, executionTime: 0.0
+2024-09-01 18:42:10,635 - INFO - Next server: https://localhost:8000
+2024-09-01 18:42:10,702 - INFO - {"request_method": "GET", "request_url": "https://0.0.0.0:7010/", "request_headers": {"user-agent": "PostmanRuntime/7.41.2", "accept": "*/*", "postman-token": "6a7849b9-91f0-431f-ab21-a8281e636f1e", "host": "0.0.0.0:7010", "accept-encoding": "gzip, deflate, br", "connection": "keep-alive"}, "request_body": ""}
+2024-09-01 18:42:11,870 - INFO - functionName: round_robin_middleware, startTime: 06:42:11 PM, endTime: 06:42:11 PM, executionTime: 0.0
+2024-09-01 18:42:11,936 - INFO - Next server: https://localhost:8001
+2024-09-01 18:42:11,995 - INFO - {"request_method": "GET", "request_url": "https://0.0.0.0:7010/", "request_headers": {"user-agent": "PostmanRuntime/7.41.2", "accept": "*/*", "postman-token": "cd7caf81-2fe2-4cd7-a99b-71234cfa3bcf", "host": "0.0.0.0:7010", "accept-encoding": "gzip, deflate, br", "connection": "keep-alive"}, "request_body": ""}
+2024-09-01 18:42:12,292 - INFO - {"response_status_code": 200, "response_headers": {"date": "Sun, 01 Sep 2024 13:42:12 GMT", "server": "uvicorn", "content-length": "41", "content-type": "application/json"}, "response_body": "{\"message\":\"Hello, World from server 2!\"}"}
+2024-09-01 18:42:12,867 - INFO - functionName: round_robin_middleware, startTime: 06:42:12 PM, endTime: 06:42:12 PM, executionTime: 0.0
+2024-09-01 18:42:12,937 - INFO - Next server: https://localhost:8004
+2024-09-01 18:42:12,990 - INFO - {"request_method": "GET", "request_url": "https://0.0.0.0:7010/", "request_headers": {"user-agent": "PostmanRuntime/7.41.2", "accept": "*/*", "postman-token": "69890b5e-a8fd-4424-bda1-7f0488ab474f", "host": "0.0.0.0:7010", "accept-encoding": "gzip, deflate, br", "connection": "keep-alive"}, "request_body": ""}
+2024-09-01 18:42:13,327 - INFO - {"response_status_code": 200, "response_headers": {"date": "Sun, 01 Sep 2024 13:42:12 GMT", "server": "uvicorn", "content-length": "41", "content-type": "application/json"}, "response_body": "{\"message\":\"Hello, World from server 3!\"}"}
+2024-09-01 18:42:14,106 - INFO - functionName: round_robin_middleware, startTime: 06:42:14 PM, endTime: 06:42:14 PM, executionTime: 0.0005018711090087891
+2024-09-01 18:42:14,151 - INFO - Next server: https://localhost:8000
+2024-09-01 18:42:14,219 - INFO - {"request_method": "GET", "request_url": "https://0.0.0.0:7010/", "request_headers": {"user-agent": "PostmanRuntime/7.41.2", "accept": "*/*", "postman-token": "54bc7bf6-afaf-45db-9ab4-25d9baafcfd6", "host": "0.0.0.0:7010", "accept-encoding": "gzip, deflate, br", "connection": "keep-alive"}, "request_body": ""}
+2024-09-01 18:42:15,400 - INFO - functionName: round_robin_middleware, startTime: 06:42:15 PM, endTime: 06:42:15 PM, executionTime: 0.0
+2024-09-01 18:42:15,466 - INFO - Next server: https://localhost:8001
+2024-09-01 18:42:15,516 - INFO - {"request_method": "GET", "request_url": "https://0.0.0.0:7010/", "request_headers": {"user-agent": "PostmanRuntime/7.41.2", "accept": "*/*", "postman-token": "95d7bc08-415b-40fa-82b1-716e927227ed", "host": "0.0.0.0:7010", "accept-encoding": "gzip, deflate, br", "connection": "keep-alive"}, "request_body": ""}
+2024-09-01 18:42:15,852 - INFO - {"response_status_code": 200, "response_headers": {"date": "Sun, 01 Sep 2024 13:42:15 GMT", "server": "uvicorn", "content-length": "41", "content-type": "application/json"}, "response_body": "{\"message\":\"Hello, World from server 2!\"}"}
+2024-09-01 18:42:16,932 - INFO - functionName: round_robin_middleware, startTime: 06:42:16 PM, endTime: 06:42:16 PM, executionTime: 0.0
+2024-09-01 18:42:16,999 - INFO - Next server: https://localhost:8004
+2024-09-01 18:42:17,066 - INFO - {"request_method": "GET", "request_url": "https://0.0.0.0:7010/", "request_headers": {"user-agent": "PostmanRuntime/7.41.2", "accept": "*/*", "postman-token": "68811daa-80a3-48c3-9f2b-5566a307b6b6", "host": "0.0.0.0:7010", "accept-encoding": "gzip, deflate, br", "connection": "keep-alive"}, "request_body": ""}
+2024-09-01 18:42:17,399 - INFO - {"response_status_code": 200, "response_headers": {"date": "Sun, 01 Sep 2024 13:42:17 GMT", "server": "uvicorn", "content-length": "41", "content-type": "application/json"}, "response_body": "{\"message\":\"Hello, World from server 3!\"}"}
+2024-09-01 18:42:18,446 - INFO - functionName: round_robin_middleware, startTime: 06:42:18 PM, endTime: 06:42:18 PM, executionTime: 0.0
+2024-09-01 18:42:18,501 - INFO - Next server: https://localhost:8000
+2024-09-01 18:42:18,579 - INFO - {"request_method": "GET", "request_url": "https://0.0.0.0:7010/", "request_headers": {"user-agent": "PostmanRuntime/7.41.2", "accept": "*/*", "postman-token": "356f28eb-f2c7-4303-ba74-7d1b183cc723", "host": "0.0.0.0:7010", "accept-encoding": "gzip, deflate, br", "connection": "keep-alive"}, "request_body": ""}
+2024-09-01 18:42:19,712 - INFO - functionName: round_robin_middleware, startTime: 06:42:19 PM, endTime: 06:42:19 PM, executionTime: 0.0
+2024-09-01 18:42:19,763 - INFO - Next server: https://localhost:8001
+2024-09-01 18:42:19,839 - INFO - {"request_method": "GET", "request_url": "https://0.0.0.0:7010/", "request_headers": {"user-agent": "PostmanRuntime/7.41.2", "accept": "*/*", "postman-token": "5e12befe-87f1-4281-8204-077dd5ce2495", "host": "0.0.0.0:7010", "accept-encoding": "gzip, deflate, br", "connection": "keep-alive"}, "request_body": ""}
+2024-09-01 18:42:20,145 - INFO - {"response_status_code": 200, "response_headers": {"date": "Sun, 01 Sep 2024 13:42:19 GMT", "server": "uvicorn", "content-length": "41", "content-type": "application/json"}, "response_body": "{\"message\":\"Hello, World from server 2!\"}"}
+2024-09-01 18:42:21,278 - INFO - functionName: round_robin_middleware, startTime: 06:42:21 PM, endTime: 06:42:21 PM, executionTime: 0.0
+2024-09-01 18:42:21,328 - INFO - Next server: https://localhost:8004
+2024-09-01 18:42:21,393 - INFO - {"request_method": "GET", "request_url": "https://0.0.0.0:7010/", "request_headers": {"user-agent": "PostmanRuntime/7.41.2", "accept": "*/*", "postman-token": "08ea8760-7169-4a75-8737-c51386431944", "host": "0.0.0.0:7010", "accept-encoding": "gzip, deflate, br", "connection": "keep-alive"}, "request_body": ""}
+2024-09-01 18:42:21,710 - INFO - {"response_status_code": 200, "response_headers": {"date": "Sun, 01 Sep 2024 13:42:21 GMT", "server": "uvicorn", "content-length": "41", "content-type": "application/json"}, "response_body": "{\"message\":\"Hello, World from server 3!\"}"}
+2024-09-01 18:42:22,743 - INFO - functionName: round_robin_middleware, startTime: 06:42:22 PM, endTime: 06:42:22 PM, executionTime: 0.0
+2024-09-01 18:42:22,810 - INFO - Next server: https://localhost:8000
+2024-09-01 18:42:22,860 - INFO - {"request_method": "GET", "request_url": "https://0.0.0.0:7010/", "request_headers": {"user-agent": "PostmanRuntime/7.41.2", "accept": "*/*", "postman-token": "b4061151-f20e-408d-b370-d24d5559eeae", "host": "0.0.0.0:7010", "accept-encoding": "gzip, deflate, br", "connection": "keep-alive"}, "request_body": ""}
+2024-09-01 18:42:24,076 - INFO - functionName: round_robin_middleware, startTime: 06:42:24 PM, endTime: 06:42:24 PM, executionTime: 0.0
+2024-09-01 18:42:24,134 - INFO - Next server: https://localhost:8001
+2024-09-01 18:42:24,184 - INFO - {"request_method": "GET", "request_url": "https://0.0.0.0:7010/", "request_headers": {"user-agent": "PostmanRuntime/7.41.2", "accept": "*/*", "postman-token": "93ea8918-ea7b-4b81-b33e-3465f8e5d3cf", "host": "0.0.0.0:7010", "accept-encoding": "gzip, deflate, br", "connection": "keep-alive"}, "request_body": ""}
+2024-09-01 18:42:24,511 - INFO - {"response_status_code": 200, "response_headers": {"date": "Sun, 01 Sep 2024 13:42:24 GMT", "server": "uvicorn", "content-length": "41", "content-type": "application/json"}, "response_body": "{\"message\":\"Hello, World from server 2!\"}"}
+2024-09-01 20:29:16,827 - INFO - functionName: round_robin_middleware, startTime: 08:29:16 PM, endTime: 08:29:16 PM, executionTime: 0.0
+2024-09-01 20:29:34,765 - INFO - Next server: https://localhost:8004
+2024-09-01 20:29:51,333 - INFO - {"request_method": "GET", "request_url": "https://0.0.0.0:7010/", "request_headers": {"user-agent": "PostmanRuntime/7.41.2", "accept": "*/*", "postman-token": "ca6e8719-41c4-4af0-b1cb-a862b5f65b6b", "host": "0.0.0.0:7010", "accept-encoding": "gzip, deflate, br", "connection": "keep-alive"}, "request_body": ""}
+2024-09-01 20:30:07,954 - INFO - {"response_status_code": 200, "response_headers": {"date": "Sun, 01 Sep 2024 15:30:07 GMT", "server": "uvicorn", "content-length": "41", "content-type": "application/json"}, "response_body": "{\"message\":\"Hello, World from server 3!\"}"}
+2024-09-01 20:32:55,072 - INFO - functionName: round_robin_middleware, startTime: 08:32:55 PM, endTime: 08:32:55 PM, executionTime: 0.0
+2024-09-01 20:32:55,240 - INFO - Next server: https://localhost:8000
+2024-09-01 20:32:55,255 - INFO - {"request_method": "GET", "request_url": "https://0.0.0.0:7010/", "request_headers": {"user-agent": "PostmanRuntime/7.41.2", "accept": "*/*", "postman-token": "ec20d91b-2dd9-4a13-ab9c-9d557889bbd3", "host": "0.0.0.0:7010", "accept-encoding": "gzip, deflate, br", "connection": "keep-alive"}, "request_body": ""}
+2024-09-01 20:33:07,826 - INFO - functionName: round_robin_middleware, startTime: 08:33:07 PM, endTime: 08:33:07 PM, executionTime: 0.0
+2024-09-01 20:33:07,841 - INFO - Next server: https://localhost:8001
+2024-09-01 20:33:07,858 - INFO - {"request_method": "GET", "request_url": "https://0.0.0.0:7010/", "request_headers": {"user-agent": "PostmanRuntime/7.41.2", "accept": "*/*", "postman-token": "75fb166f-0421-4bf1-8bee-015dd24cbf38", "host": "0.0.0.0:7010", "accept-encoding": "gzip, deflate, br", "connection": "keep-alive"}, "request_body": ""}
+2024-09-01 20:33:08,158 - INFO - {"response_status_code": 200, "response_headers": {"date": "Sun, 01 Sep 2024 15:33:08 GMT", "server": "uvicorn", "content-length": "41", "content-type": "application/json"}, "response_body": "{\"message\":\"Hello, World from server 2!\"}"}
+2024-09-01 20:33:10,564 - INFO - functionName: round_robin_middleware, startTime: 08:33:10 PM, endTime: 08:33:10 PM, executionTime: 0.0
+2024-09-01 20:33:10,581 - INFO - Next server: https://localhost:8004
+2024-09-01 20:33:10,658 - INFO - {"request_method": "GET", "request_url": "https://0.0.0.0:7010/", "request_headers": {"user-agent": "PostmanRuntime/7.41.2", "accept": "*/*", "postman-token": "12f906ca-16b7-4213-ac41-9906d6c37da6", "host": "0.0.0.0:7010", "accept-encoding": "gzip, deflate, br", "connection": "keep-alive"}, "request_body": ""}
+2024-09-01 20:33:10,966 - INFO - {"response_status_code": 200, "response_headers": {"date": "Sun, 01 Sep 2024 15:33:10 GMT", "server": "uvicorn", "content-length": "41", "content-type": "application/json"}, "response_body": "{\"message\":\"Hello, World from server 3!\"}"}
+2024-09-01 20:33:12,728 - INFO - functionName: round_robin_middleware, startTime: 08:33:12 PM, endTime: 08:33:12 PM, executionTime: 0.0
+2024-09-01 20:33:12,744 - INFO - Next server: https://localhost:8000
+2024-09-01 20:33:12,756 - INFO - {"request_method": "GET", "request_url": "https://0.0.0.0:7010/", "request_headers": {"user-agent": "PostmanRuntime/7.41.2", "accept": "*/*", "postman-token": "d1abe0a0-5e73-4292-ad20-019ff7a3beb8", "host": "0.0.0.0:7010", "accept-encoding": "gzip, deflate, br", "connection": "keep-alive"}, "request_body": ""}
+2024-09-01 20:33:14,235 - INFO - functionName: round_robin_middleware, startTime: 08:33:14 PM, endTime: 08:33:14 PM, executionTime: 0.0
+2024-09-01 20:33:14,252 - INFO - Next server: https://localhost:8001
+2024-09-01 20:33:14,268 - INFO - {"request_method": "GET", "request_url": "https://0.0.0.0:7010/", "request_headers": {"user-agent": "PostmanRuntime/7.41.2", "accept": "*/*", "postman-token": "835f81c2-409f-4dba-8b91-3905d2d94ffe", "host": "0.0.0.0:7010", "accept-encoding": "gzip, deflate, br", "connection": "keep-alive"}, "request_body": ""}
+2024-09-01 20:33:14,552 - INFO - {"response_status_code": 200, "response_headers": {"date": "Sun, 01 Sep 2024 15:33:13 GMT", "server": "uvicorn", "content-length": "41", "content-type": "application/json"}, "response_body": "{\"message\":\"Hello, World from server 2!\"}"}
+2024-09-01 20:33:16,433 - INFO - functionName: round_robin_middleware, startTime: 08:33:16 PM, endTime: 08:33:16 PM, executionTime: 0.0
+2024-09-01 20:33:16,491 - INFO - Next server: https://localhost:8004
+2024-09-01 20:33:16,510 - INFO - {"request_method": "GET", "request_url": "https://0.0.0.0:7010/", "request_headers": {"user-agent": "PostmanRuntime/7.41.2", "accept": "*/*", "postman-token": "d75f2cf9-dbf9-46ef-8671-41ebbd207f24", "host": "0.0.0.0:7010", "accept-encoding": "gzip, deflate, br", "connection": "keep-alive"}, "request_body": ""}
+2024-09-01 20:33:16,823 - INFO - {"response_status_code": 200, "response_headers": {"date": "Sun, 01 Sep 2024 15:33:15 GMT", "server": "uvicorn", "content-length": "41", "content-type": "application/json"}, "response_body": "{\"message\":\"Hello, World from server 3!\"}"}
+2024-09-01 20:33:19,191 - INFO - functionName: round_robin_middleware, startTime: 08:33:19 PM, endTime: 08:33:19 PM, executionTime: 0.0
+2024-09-01 20:33:19,207 - INFO - Next server: https://localhost:8000
+2024-09-01 20:33:19,221 - INFO - {"request_method": "GET", "request_url": "https://0.0.0.0:7010/", "request_headers": {"user-agent": "PostmanRuntime/7.41.2", "accept": "*/*", "postman-token": "eab827bb-891d-44f2-9388-3253d6f030f8", "host": "0.0.0.0:7010", "accept-encoding": "gzip, deflate, br", "connection": "keep-alive"}, "request_body": ""}
+2024-09-01 20:33:28,677 - INFO - functionName: round_robin_middleware, startTime: 08:33:28 PM, endTime: 08:33:28 PM, executionTime: 0.0
+2024-09-01 20:33:28,680 - INFO - Next server: https://localhost:8001
+2024-09-01 20:33:28,698 - INFO - {"request_method": "GET", "request_url": "https://0.0.0.0:7010/", "request_headers": {"user-agent": "PostmanRuntime/7.41.2", "accept": "*/*", "postman-token": "4943e9f0-23fd-4cec-a67d-8ad290037f52", "host": "0.0.0.0:7010", "accept-encoding": "gzip, deflate, br", "connection": "keep-alive"}, "request_body": ""}
+2024-09-01 20:33:28,992 - INFO - {"response_status_code": 200, "response_headers": {"date": "Sun, 01 Sep 2024 15:33:28 GMT", "server": "uvicorn", "content-length": "41", "content-type": "application/json"}, "response_body": "{\"message\":\"Hello, World from server 2!\"}"}
+2024-09-01 20:33:30,543 - INFO - functionName: round_robin_middleware, startTime: 08:33:30 PM, endTime: 08:33:30 PM, executionTime: 0.0
+2024-09-01 20:33:30,558 - INFO - Next server: https://localhost:8004
+2024-09-01 20:33:30,574 - INFO - {"request_method": "GET", "request_url": "https://0.0.0.0:7010/", "request_headers": {"user-agent": "PostmanRuntime/7.41.2", "accept": "*/*", "postman-token": "a19edafa-d879-43c3-a259-26f0f4379860", "host": "0.0.0.0:7010", "accept-encoding": "gzip, deflate, br", "connection": "keep-alive"}, "request_body": ""}
+2024-09-01 20:33:30,873 - INFO - {"response_status_code": 200, "response_headers": {"date": "Sun, 01 Sep 2024 15:33:30 GMT", "server": "uvicorn", "content-length": "41", "content-type": "application/json"}, "response_body": "{\"message\":\"Hello, World from server 3!\"}"}
+2024-09-01 20:33:32,405 - INFO - functionName: round_robin_middleware, startTime: 08:33:32 PM, endTime: 08:33:32 PM, executionTime: 0.0
+2024-09-01 20:33:32,424 - INFO - Next server: https://localhost:8000
+2024-09-01 20:33:32,438 - INFO - {"request_method": "GET", "request_url": "https://0.0.0.0:7010/", "request_headers": {"user-agent": "PostmanRuntime/7.41.2", "accept": "*/*", "postman-token": "157cd560-1ada-4180-a512-fa445277dbe5", "host": "0.0.0.0:7010", "accept-encoding": "gzip, deflate, br", "connection": "keep-alive"}, "request_body": ""}
+2024-09-01 20:33:50,141 - INFO - functionName: round_robin_middleware, startTime: 08:33:50 PM, endTime: 08:33:50 PM, executionTime: 0.0
+2024-09-01 20:33:50,158 - INFO - Next server: https://localhost:8001
+2024-09-01 20:33:50,176 - INFO - {"request_method": "GET", "request_url": "https://0.0.0.0:7010/", "request_headers": {"user-agent": "PostmanRuntime/7.41.2", "accept": "*/*", "postman-token": "cc2aa851-1bae-4bc9-9f88-9e7450014760", "host": "0.0.0.0:7010", "accept-encoding": "gzip, deflate, br", "connection": "keep-alive"}, "request_body": ""}
+2024-09-01 20:33:50,486 - INFO - {"response_status_code": 200, "response_headers": {"date": "Sun, 01 Sep 2024 15:33:50 GMT", "server": "uvicorn", "content-length": "41", "content-type": "application/json"}, "response_body": "{\"message\":\"Hello, World from server 2!\"}"}
+2024-09-01 20:33:51,809 - INFO - functionName: round_robin_middleware, startTime: 08:33:51 PM, endTime: 08:33:51 PM, executionTime: 0.0
+2024-09-01 20:33:51,826 - INFO - Next server: https://localhost:8004
+2024-09-01 20:33:51,836 - INFO - {"request_method": "GET", "request_url": "https://0.0.0.0:7010/", "request_headers": {"user-agent": "PostmanRuntime/7.41.2", "accept": "*/*", "postman-token": "ed22d116-686d-4c05-a9ae-c6912a0b37a1", "host": "0.0.0.0:7010", "accept-encoding": "gzip, deflate, br", "connection": "keep-alive"}, "request_body": ""}
+2024-09-01 20:33:52,137 - INFO - {"response_status_code": 200, "response_headers": {"date": "Sun, 01 Sep 2024 15:33:51 GMT", "server": "uvicorn", "content-length": "41", "content-type": "application/json"}, "response_body": "{\"message\":\"Hello, World from server 3!\"}"}
+2024-09-01 20:33:53,279 - INFO - functionName: round_robin_middleware, startTime: 08:33:53 PM, endTime: 08:33:53 PM, executionTime: 0.0
+2024-09-01 20:33:53,300 - INFO - Next server: https://localhost:8000
+2024-09-01 20:33:53,317 - INFO - {"request_method": "GET", "request_url": "https://0.0.0.0:7010/", "request_headers": {"user-agent": "PostmanRuntime/7.41.2", "accept": "*/*", "postman-token": "0d91208f-b479-4eae-9924-b537c4967ae8", "host": "0.0.0.0:7010", "accept-encoding": "gzip, deflate, br", "connection": "keep-alive"}, "request_body": ""}
+2024-09-01 21:44:56,463 - INFO - functionName: round_robin_middleware, startTime: 09:44:56 PM, endTime: 09:44:56 PM, executionTime: 0.0
+2024-09-01 21:44:56,490 - INFO - Next server: https://localhost:8001
+2024-09-01 21:44:56,508 - INFO - {"request_method": "GET", "request_url": "https://0.0.0.0:7010/", "request_headers": {"user-agent": "PostmanRuntime/7.41.2", "accept": "*/*", "postman-token": "384acd5c-1511-4b6c-b6dd-1327d45b415b", "host": "0.0.0.0:7010", "accept-encoding": "gzip, deflate, br", "connection": "keep-alive"}, "request_body": ""}
+2024-09-01 21:44:56,841 - INFO - {"response_status_code": 200, "response_headers": {"date": "Sun, 01 Sep 2024 16:44:56 GMT", "server": "uvicorn", "content-length": "41", "content-type": "application/json"}, "response_body": "{\"message\":\"Hello, World from server 2!\"}"}
+2024-09-01 21:44:59,187 - INFO - functionName: round_robin_middleware, startTime: 09:44:59 PM, endTime: 09:44:59 PM, executionTime: 0.0
+2024-09-01 21:44:59,203 - INFO - Next server: https://localhost:8004
+2024-09-01 21:44:59,203 - INFO - {"request_method": "GET", "request_url": "https://0.0.0.0:7010/", "request_headers": {"user-agent": "PostmanRuntime/7.41.2", "accept": "*/*", "postman-token": "d8a9d550-ec4b-4617-8105-5d7073896f07", "host": "0.0.0.0:7010", "accept-encoding": "gzip, deflate, br", "connection": "keep-alive"}, "request_body": ""}
+2024-09-01 21:44:59,489 - INFO - {"response_status_code": 200, "response_headers": {"date": "Sun, 01 Sep 2024 16:44:58 GMT", "server": "uvicorn", "content-length": "41", "content-type": "application/json"}, "response_body": "{\"message\":\"Hello, World from server 3!\"}"}
+2024-09-01 21:45:00,707 - INFO - functionName: round_robin_middleware, startTime: 09:45:00 PM, endTime: 09:45:00 PM, executionTime: 0.0
+2024-09-01 21:45:00,716 - INFO - Next server: https://localhost:8000
+2024-09-01 21:45:00,722 - INFO - {"request_method": "GET", "request_url": "https://0.0.0.0:7010/", "request_headers": {"user-agent": "PostmanRuntime/7.41.2", "accept": "*/*", "postman-token": "fae478fc-c818-4f8c-9c5e-9eaee41f03e2", "host": "0.0.0.0:7010", "accept-encoding": "gzip, deflate, br", "connection": "keep-alive"}, "request_body": ""}
